@@ -625,7 +625,7 @@ for details on generation and contribution._
               <ins title="Last commit on 2016/09/27">ⓘ</ins>
           </div>
         </td>
-        <td>PyroCMS is a modular and DDD-like PHP Content Management System built on top of Laravel's MVC to be easy to use. It has artisan code generators, which would make it funny to create a domain with suggested models or just a new theme and the develop that created code. It has highest learning curve of presented here products!</td>
+        <td>PyroCMS is a modular and DDD-like PHP Content Management System built on top of Laravel's MVC to be easy to use. It has artisan code generators, which would make it funny to create a domain with suggested models or just a new theme and then develop that created code. It has highest learning curve of presented here products!</td>
       </tr>
       <tr>
         <td width="240">
